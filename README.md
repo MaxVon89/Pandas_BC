@@ -5,4 +5,4 @@ I try to understand and implement Pandas with real world examples.
 
 [Tutorial link](https://www.youtube.com/watch?v=VXtjG_GzO7Q&t=776s)
 
-I may add some more content from myself.
+I may add some more content of my own.
